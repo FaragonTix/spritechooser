@@ -1,0 +1,8 @@
+test
+show en at
+en"I"
+show en at
+en"Love"
+show she at
+she"paris"
+endtest
